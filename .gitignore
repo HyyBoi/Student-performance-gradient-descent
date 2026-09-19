@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Course datasets contain real students' marks - never commit them
+*.xlsx
+*.xls
+*.csv
